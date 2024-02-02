@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-image: url("img/woman.jpg");
+    background-image: url("../img/woman.jpg");
     /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(250, 193, 193)); */
     position: relative;
     background-repeat: no-repeat;
